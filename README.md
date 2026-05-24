@@ -79,7 +79,7 @@ http://127.0.0.1:8080 {
 Run:
 
 ```shell
-xcaddy build --with github.com/corazawaf/coraza-caddy/v2
+xcaddy build --with github.com/RobinGru/coraza-caddy/v2
 ```
 
 ## Testing
